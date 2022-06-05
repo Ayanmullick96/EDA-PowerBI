@@ -1,4 +1,4 @@
-# EDA-PowerBI
+# EDA on Superstore Data-PowerBI
 Superstore Global Sales Data (2012-2015)-EDA
 Perform ‘Exploratory Data Analysis’ on the provided dataset ‘Superstore. So, the marketing team of the retail organization understands how it is performing and also finding out the weak areas where marketing team can work to make more profit.
 Business Goal:
